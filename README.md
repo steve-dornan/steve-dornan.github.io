@@ -88,7 +88,7 @@
 
     <!-- Image with Alt text and size adjustment -->
 
-    <img src ="https://miro.medium.com/max/4800/1*cbjT-JtrNb-0FtjxS_we-g@2x.jpeg"height="200" > <br>
+    <img src ="https://sdk.bitmoji.com/render/panel/bdcf6539-95ae-4e66-a758-5b8b54f71b05-b52a5d68-7feb-4728-9572-8eafc3e56572-v1.png?transparent=1&palette=1"height="200" > <br>
 
     <p class="picture" id="Topic1"><strong class="bold">HTML</strong> allows a computer programmer to create structured documents by controlling the format of text such as <strong class="bold"><em>headings, paragraphs, lists, links, quotes,</em></strong> and other items.</p>
 
