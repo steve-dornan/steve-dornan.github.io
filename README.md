@@ -70,7 +70,7 @@
     <!-- External Links -->
       
     <ul>    
-    <li id="HTML"><strong class="bold"><a href="https://en          .wikipedia.org/wiki/HTML#:~:text=Hypertext%20Markup%20Langua     ge%20(HTML)%20is,scripting%20languages%20such%20as%20JavaScr     ipt.">HTML</a></strong> Basics </li>
+    <li id="HTML"><strong class="bold"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></strong> Basics </li>
     <li class="lists">Text Emphasis</li>
     <li class="lists">Lists</li>
     <li class="lists">Images</li><br>
