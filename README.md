@@ -88,8 +88,9 @@
 
     <!-- Image with Alt text and size adjustment -->
 
-    <img src ="https://sdk.bitmoji.com/render/panel/bdcf6539-95ae-4e66-a758-5b8b54f71b05-b52a5d68-7feb-4728-9572-8eafc3e56572-v1.png?transparent=1&palette=1"> 
-
+    <img src ="https://sdk.bitmoji.com/render/panel/042c5481-28ec-4d85-8f58-1e8f2376bfc6-b52a5d68-7feb-4728-9572-8eafc3e56572-v1.png?transparent=1&palette=1"> <br>
+    
+    <img src ="https://sdk.bitmoji.com/render/panel/3f8aba80-1d22-479d-a4cb-e20860bf17f8-b52a5d68-7feb-4728-9572-8eafc3e56572-v1.png?transparent=1&palette=1"> <br>
     <p class="picture" id="Topic1"><strong class="bold">HTML</strong> allows a computer programmer to create structured documents by controlling the format of text such as <strong class="bold"><em>headings, paragraphs, lists, links, quotes,</em></strong> and other items.</p>
 
     <p class="picture"
