@@ -7,6 +7,7 @@
         <!-- Insert the CSS here within thye <style></style>            tags -->
         
         <style>
+        #text-align{text-align:center;}
         
         /* Selecting by the Element Tag (Element Selector) */ 
          
@@ -61,7 +62,11 @@
     
     <!-- Internal links  -->
     
-    <p class="para">This term in <strong><em>Digital Technologies</em ></strong> we are learning how to use <a href="#Topic1"    >HTML</a> and <a href="#Topic2">CSS</a> to create webpages      .</p>
+    <p class="para">This term in <strong><em>Digital Technologies</em ></strong> we are learning how to use <br>
+    
+    <li> <a href="#Topic1"    >HTML</a> </li><br>
+    <li><a href="#Topic2">CSS</a> & </li> <br> 
+    <li><a href="#Topic3">JAVA SCRIPT</a> to create webpages      .</li>
      
     <p class="para">We are using <strong>Khan Academy</strong> as our            online program for learning and the creation of webpages.</p     >
      
@@ -70,7 +75,7 @@
     <!-- External Links -->
       
     <ul>    
-    <li id="HTML"><strong class="bold"><a href="https://en.wikipedia.org/wiki/HTML#:~:text=Hypertext%20Markup%20Language%20(HTML)%20is,scripting%20languages%20such%20as%20JavaScript.">HTML</a></strong> Basics </li>
+    <li id="HTML"><strong class="bold"><a href="https://en.wikipedia.org/wiki/HTML#:~:text=Hypertext%20Markup%20Language%20(HTML)%20is,scripting%20languages%20such%20as%20JavaScript."> HTML</a></strong> Basics </li>
     <li class="lists">Text Emphasis</li>
     <li class="lists">Lists</li>
     <li class="lists">Images</li><br>
@@ -85,23 +90,18 @@
     <li class="lists">CSS Classes</li><br>
     </ul>
     
-    <br>
-    
-    <h2> At first it might seem very complicated and frustrating :( </h2>
 
-    <!-- Image with Alt text and size adjustment -->
+    <!-- Image with Alt text, size adjustment & External Links -->
+    
+    <a href="https://www.landolakes.com/recipe/21329/rainbo-cake/"><img src ="https://www.kasandbox.org/programming-images/seasonal/xmas-cookies.png"alt="cookies with icing"height="200" ></a> 
 
-    <img src ="https://sdk.bitmoji.com/render/panel/042c5481-28ec-4d85-8f58-1e8f2376bfc6-b52a5d68-7feb-4728-9572-8eafc3e56572-v1.png?transparent=1&palette=1"> <br>
-    
-    <h2> But keep trying, complete the tutorials and you'll succeed!! </h2>
-    
-    <img src ="https://sdk.bitmoji.com/render/panel/3f8aba80-1d22-479d-a4cb-e20860bf17f8-b52a5d68-7feb-4728-9572-8eafc3e56572-v1.png?transparent=1&palette=1"> <br>
-    
-    
     <p class="picture" id="Topic1"><strong class="bold">HTML</strong> allows a computer programmer to create structured documents by controlling the format of text such as <strong class="bold"><em>headings, paragraphs, lists, links, quotes,</em></strong> and other items.</p>
 
     <p class="picture"
     id="Topic2"><strong class="bold">CSS</strong> stylises the presentation and content, including <strong class="bold"><em>layout,colour, and font </em></strong>of webpages.</p>
+    
+     <p class="picture"
+    id="Topic3"><strong class="bold">JavaScript</strong> JavaScript enables interactive web pages and is an essential part of web applications. The vast majority of websites use it for client-side page behaviour such as the <strong class="bold"><em>animation and interactivity  </em></strong>of webpages.</p>
     
             <h2 class="para">Our Digital Technologies Webpage Course</h2>
 
