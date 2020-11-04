@@ -99,7 +99,7 @@
 
     <!-- Image with Alt text, size adjustment & External Links -->
     
-    <a href="https://www.landolakes.com/recipe/21329/rainbo-cake/"><img src ="https://www.kasandbox.org/programming-images/seasonal/xmas-cookies.png"alt="cookies with icing"height="200" ></a> 
+    <img src ="https://sdk.bitmoji.com/render/panel/042c5481-28ec-4d85-8f58-1e8f2376bfc6-b52a5d68-7feb-4728-9572-8eafc3e56572-v1.png?transparent=1&palette=1"alt= "Mr D">
 
     <p class="picture" id="Topic1"><strong class="bold">HTML</strong> allows a computer programmer to create structured documents by controlling the format of text such as <strong class="bold"><em>headings, paragraphs, lists, links, quotes,</em></strong> and other items.</p>
 
