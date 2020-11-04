@@ -82,7 +82,7 @@
     <!-- Internal links  -->
     <br>
     
-    <p class="para2">This term in <strong><em>Digital Technologies</em ></strong> we are learning how to create Webpages by learning all about; </p>
+    <h2 class="para2">This term in <strong><em>Digital Technologies</em ></strong> we are learning how to create Webpages by learning all about; </h2>
     
     <br>
     
@@ -92,11 +92,11 @@
     
     <br>
      
-    <p class="para2">We are using <strong>Khan Academy</strong> as our online program for learning and the creation of webpages.</p>
+    <h2 class="para2">We are using <strong>Khan Academy</strong> as our online program for learning and the creation of webpages.</h2>
     
     <br>
      
-    <p id="learning-intent">We are learning about the following;</p>
+    <h3 id="learning-intent">We are learning about the following;</h3>
     
     <br>
       
