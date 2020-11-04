@@ -71,7 +71,7 @@
     <!-- Internal links  -->
     <br>
     
-    <p class="para2">This term in <strong><em>Digital Technologies</em ></strong> we are learning how to use </p>
+    <p class="para2">This term in <strong><em>Digital Technologies</em ></strong> we are learning how to create Webpages by learning all about; </p>
     
     <br>
     
