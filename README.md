@@ -45,6 +45,8 @@
         
         .para {text-align: center;}
         
+        .para2 {text-align: left;}
+        
         .picture {text-align: center;}
         
         
@@ -68,7 +70,9 @@
     
     <!-- Internal links  -->
     
-    <p class="para">This term in <strong><em>Digital Technologies</em ></strong> we are learning how to use <br>
+    <p class="para2">This term in <strong><em>Digital Technologies</em ></strong> we are learning how to use </p>
+    
+    <br>
     
     <li> <a href="#Topic1"    >HTML</a> </li><br>
     <li><a href="#Topic2">CSS</a> & </li> <br> 
@@ -76,7 +80,7 @@
     
     <br>
      
-    <p class="para">We are using <strong>Khan Academy</strong> as our online program for learning and the creation of webpages.</p>
+    <p class="para2">We are using <strong>Khan Academy</strong> as our online program for learning and the creation of webpages.</p>
     
     <br>
      
