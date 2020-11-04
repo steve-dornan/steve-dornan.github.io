@@ -141,11 +141,11 @@
     
             <h2 class="para">Our Digital Technologies Webpage Course</h2>
 
-    <table class="table" >
+    <table class="center" >
             <thead >
             <th>Term 2 & 4 2020 </th>
           
-                <tr>
+                <tr class="table">
                     <th>Unit 1</th>
                     <th>Unit 2</th>
                     <th>Unit 3</th>
@@ -154,20 +154,20 @@
                 </tr>
             </thead>
             <tbody>
-            <tr>
+            <tr class="table">
                 <td><strong>JavaScript </strong></td>
                 <td><strong>HTML </strong></td>
                 <td><strong>CSS </strong></td>
                 <td><strong>HTML Links & Tables</strong></td>
                 
             </tr>
-             <tr>
+             <tr class="table">
                 <td>Term 2 Weeks 1-8</td>
                 <td>Term 4 Weeks 1-2</td>
                 <td>Term 4 Weeks 3-4</td>
                 <td>Term 4 Week 5-6</td>
             </tr>
-            <tr>
+            <tr class="table">
                 <td>Quiz # 1</td>
                 <td>Quiz # 2</td>
                 <td>Quiz # 3</td>
