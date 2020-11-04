@@ -66,11 +66,17 @@
     
     <li> <a href="#Topic1"    >HTML</a> </li><br>
     <li><a href="#Topic2">CSS</a> & </li> <br> 
-    <li><a href="#Topic3">JAVA SCRIPT</a> to create webpages      .</li>
+    <li><a href="#Topic3">JAVA SCRIPT</a> to create webpages.</li>
+    
+    <br>
      
-    <p class="para">We are using <strong>Khan Academy</strong> as our            online program for learning and the creation of webpages.</p     >
+    <p class="para">We are using <strong>Khan Academy</strong> as our online program for learning and the creation of webpages.</p>
+    
+    <br>
      
-    <p id="learning-intent">We are learning about the               following;</p>
+    <p id="learning-intent">We are learning about the following;</p>
+    
+    <br>
       
     <!-- External Links -->
       
