@@ -146,7 +146,7 @@
     
             <h2 class="para">Our Digital Technologies Webpage Course</h2>
 
-    <table class="center" >
+    <table class="tablecenter" >
             <thead >
             <th>Term 2 & 4 2020 </th>
           
