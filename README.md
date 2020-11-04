@@ -60,6 +60,12 @@
     
     <h1 class="title" id="return">HTML & CSS @ MLC Term 4 2020</h1> 
     
+    <br>
+    
+   <img src="https://sdk.bitmoji.com/render/panel/150136d0-bf26-4d28-bdd1-a7a5552b771e-b52a5d68-7feb-4728-9572-8eafc3e56572-v1.png?transparent=1&palette=1">
+   
+   <br>
+    
     <!-- Internal links  -->
     
     <p class="para">This term in <strong><em>Digital Technologies</em ></strong> we are learning how to use <br>
