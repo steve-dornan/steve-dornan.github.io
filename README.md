@@ -150,7 +150,7 @@
             <thead >
             <th>Term 2 & 4 2020 </th>
           
-                <tr class="tablecenter">
+                <tr class="table">
                     <th>Unit 1</th>
                     <th>Unit 2</th>
                     <th>Unit 3</th>
@@ -159,7 +159,7 @@
                 </tr>
             </thead>
             <tbody>
-            <tr class="tablecenter">
+            <tr class="table">
                 <td><strong>JavaScript </strong></td>
                 <td><strong>HTML </strong></td>
                 <td><strong>CSS </strong></td>
