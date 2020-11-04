@@ -172,7 +172,7 @@
                 <td>Term 4 Weeks 3-4</td>
                 <td>Term 4 Week 5-6</td>
             </tr>
-            <tr class="tablecenter">
+            <tr class="table">
                 <td>Quiz # 1</td>
                 <td>Quiz # 2</td>
                 <td>Quiz # 3</td>
