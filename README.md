@@ -105,36 +105,43 @@
     
             <h2 class="para">Our Digital Technologies Webpage Course</h2>
 
-        <table class="table" >
+    <table class="table" >
             <thead >
+            <th>Term 2 & 4 2020 </th>
+          
                 <tr>
                     <th>Unit 1</th>
                     <th>Unit 2</th>
                     <th>Unit 3</th>
+                    <th>Unit 4</th>
                     
                 </tr>
             </thead>
             <tbody>
             <tr>
-                <td>HTML Basics</td>
-                <td>CSS Basics</td>
-                <td>HTML Links & Tables</td>
+                <td><strong>JavaScript </strong></td>
+                <td><strong>HTML </strong></td>
+                <td><strong>CSS </strong></td>
+                <td><strong>HTML Links & Tables</strong></td>
                 
             </tr>
              <tr>
-                <td>Weeks 1-2</td>
-                <td>Weeks 3-4</td>
-                <td>Week 5-6</td>
+                <td>Term 2 Weeks 1-8</td>
+                <td>Term 4 Weeks 1-2</td>
+                <td>Term 4 Weeks 3-4</td>
+                <td>Term 4 Week 5-6</td>
             </tr>
             <tr>
                 <td>Quiz # 1</td>
                 <td>Quiz # 2</td>
                 <td>Quiz # 3</td>
+                <td>Quiz # 4</td>
             </tr>
                 
                 
             </tbody>
         </table>
+    
     
 
     <!-- Internal link -->
