@@ -166,7 +166,7 @@
                 <td><strong>HTML Links & Tables</strong></td>
                 
             </tr>
-             <tr class="tablecenter">
+             <tr class="table">
                 <td>Term 2 Weeks 1-8</td>
                 <td>Term 4 Weeks 1-2</td>
                 <td>Term 4 Weeks 3-4</td>
