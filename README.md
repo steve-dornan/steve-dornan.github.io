@@ -49,7 +49,6 @@
         
         .picture {text-align: center;}
         
-        
         .table {text-align: center;}
         
         .center {
@@ -119,13 +118,13 @@
     
     <br>
     
-    <h2> At first it may seem complicated as you adjust to learning this new language...</h2>
+    <h2 class="para"> At first it may seem complicated as you adjust to learning this new language...</h2>
     
     <img src ="https://sdk.bitmoji.com/render/panel/042c5481-28ec-4d85-8f58-1e8f2376bfc6-b52a5d68-7feb-4728-9572-8eafc3e56572-v1.png?transparent=1&palette=1" class="center">
     
     <br>
     
-    <h2> But by working through the assigned units, you'll get there in no time!!</h2>
+    <h2 class="para"> But by working through the assigned units, you'll get there in no time!!</h2>
     
     <img src="https://sdk.bitmoji.com/render/panel/3f8aba80-1d22-479d-a4cb-e20860bf17f8-b52a5d68-7feb-4728-9572-8eafc3e56572-v1.png?transparent=1&palette=1" class="center">
     
