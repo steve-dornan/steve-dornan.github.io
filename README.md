@@ -57,6 +57,11 @@
               margin-right: auto;
               width: 50%;
             }
+            
+         .tablecenter {
+              margin-left: auto;
+              margin-right: auto;
+            }
          
             
         </style>
@@ -145,7 +150,7 @@
             <thead >
             <th>Term 2 & 4 2020 </th>
           
-                <tr class="table">
+                <tr class="tablecenter">
                     <th>Unit 1</th>
                     <th>Unit 2</th>
                     <th>Unit 3</th>
@@ -154,20 +159,20 @@
                 </tr>
             </thead>
             <tbody>
-            <tr class="table">
+            <tr class="tablecenter">
                 <td><strong>JavaScript </strong></td>
                 <td><strong>HTML </strong></td>
                 <td><strong>CSS </strong></td>
                 <td><strong>HTML Links & Tables</strong></td>
                 
             </tr>
-             <tr class="table">
+             <tr class="tablecenter">
                 <td>Term 2 Weeks 1-8</td>
                 <td>Term 4 Weeks 1-2</td>
                 <td>Term 4 Weeks 3-4</td>
                 <td>Term 4 Week 5-6</td>
             </tr>
-            <tr class="table">
+            <tr class="tablecenter">
                 <td>Quiz # 1</td>
                 <td>Quiz # 2</td>
                 <td>Quiz # 3</td>
