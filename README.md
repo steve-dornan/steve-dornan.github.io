@@ -7,6 +7,10 @@
         <!-- Insert the CSS here within thye <style></style>            tags -->
         
         <style>
+        
+           #grad {background-image: linear-gradient(to right, rgb(230, 198, 230),rgb(206, 200, 230),rgb(200, 217, 230),rgb(200, 230, 219),rgb(220, 230, 200),rgb(230, 223, 200),rgb(230, 207, 200));
+}
+        
         #text-align{text-align:center;}
         
         /* Selecting by the Element Tag (Element Selector) */ 
@@ -21,7 +25,7 @@
             
             li {color:rgb(173, 33, 2);}
             
-            body {background-color:rgb(181, 235, 205);}
+           
             
             
         /* Selecting by the ID Tag (ID Selector) */ 
@@ -67,7 +71,7 @@
         </style>
         
 </head>
-    <body>
+    <body id="grad">
     
     <!-- The Largest of the Heading Tags -->
     
