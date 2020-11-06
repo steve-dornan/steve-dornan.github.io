@@ -34,14 +34,17 @@
              text-align: center;
          }
          
-         #HTML {background-color:rgb(118, 176, 138);}  
+         #HTML {background-image: linear-gradient(to right, rgb(230, 198, 230),rgb(206, 200, 230),rgb(200, 217, 230),rgb(200, 230, 219),rgb(220, 230, 200),rgb(230, 223, 200),rgb(230, 207, 200));
+} 
          
-         #CSS {background-color:rgb(132, 189, 152);} 
+         #CSS {background-image: linear-gradient(to right, rgb(230, 198, 230),rgb(206, 200, 230),rgb(200, 217, 230),rgb(200, 230, 219),rgb(220, 230, 200),rgb(230, 223, 200),rgb(230, 207, 200));
+}
          
 
         /* Selecting by the Class Tag (Class Selector) */ 
         
-        .lists {background-color:rgb(161, 209, 178);}
+        .lists {background-image: linear-gradient(to right, rgb(230, 198, 230),rgb(206, 200, 230),rgb(200, 217, 230),rgb(200, 230, 219),rgb(220, 230, 200),rgb(230, 223, 200),rgb(230, 207, 200));
+}
         
         .bold {color:rgb(36, 36, 227);}
         
