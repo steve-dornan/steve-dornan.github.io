@@ -64,11 +64,7 @@
               margin-right: auto;
               width: 50%;
             }
-            
-         .tablecenter {
-              margin-left: auto;
-              margin-right: auto;
-            }
+           
          
             
         </style>
@@ -153,7 +149,7 @@
     
             <h2 class="para">Our Digital Technologies Webpage Course</h2>
 
-    <table class="tablecenter" >
+    <table class="center" >
             <thead >
             <th>Term 2 & 4 2020 </th>
           
