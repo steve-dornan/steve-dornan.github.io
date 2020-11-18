@@ -82,7 +82,7 @@
    
    <br>
    
-   <embed type="video/webm" src="movie.mp4" width="400" height="300">
+
     
     <!-- Internal links  -->
     <br>
