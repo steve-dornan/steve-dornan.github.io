@@ -64,6 +64,8 @@
               margin-right: auto;
               width: 50%;
             }
+            
+          
            
          
             
@@ -190,11 +192,11 @@
         
         <h2 class="para"> Mr Dornan's Instructional Videos</h2>
         <h2 class="para">CSS</h2>
-        <iframe class="para" width="560" height="315" src="https://www.youtube.com/embed/dj44GYWEMH0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe  width="560" height="315" src="https://www.youtube.com/embed/dj44GYWEMH0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br>
         <h2 class="para">Getting your Webpage onto the internet</h2>
         <br>
-           <iframe class="para" width="560" height="315" src="https://www.youtube.com/embed/MoBfnfEQq2Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/MoBfnfEQq2Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      
     
     
