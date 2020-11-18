@@ -30,7 +30,7 @@
             
         /* Selecting by the ID Tag (ID Selector) */ 
        
-         #learning-intent{background-color:rgb(132, 189, 152);
+           #learning-intent{background-image: linear-gradient(to right, rgb(230, 198, 230),rgb(206, 200, 230),rgb(200, 217, 230),rgb(200, 230, 219),rgb(220, 230, 200),rgb(230, 223, 200),rgb(232, 155, 132));
              text-align: center;
          }
          
@@ -108,7 +108,7 @@ img:hover {
     
     <br>
  
-    <h3 id="learning-intent">We are learning about the following;</h3>
+    <h2 id="learning-intent">We are learning about the following;</h2>
     
     <br>
       
