@@ -100,6 +100,7 @@
     <h2 class="para2">We are using <strong>Khan Academy</strong> as our online program for learning and the creation of webpages.</h2>
     
     <br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MoBfnfEQq2Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      
     <h3 id="learning-intent">We are learning about the following;</h3>
     
