@@ -194,8 +194,9 @@ img:hover {
                 
             </tbody>
         </table>
+        <br>
         
-        <h2 class="para"> Mr Dornan's Instructional Videos</h2>
+        <h1 class="para"> Mr Dornan's Instructional Videos</h1>
         <br>
         <h2 class="para">Inhtroduction to Learning HTML</h2>
         <iframe  class="center" width="560" height="315" src="https://www.youtube.com/embed/Oe6-Eolr6aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
