@@ -62,7 +62,7 @@
               display: block;
               margin-left: auto;
               margin-right: auto;
-              width: 50%;
+              width: 60%;
             }
             
          img {
@@ -205,7 +205,7 @@ img:hover {
         <br>
         <h2 class="para">Getting your Webpage onto the internet</h2>
         <br>
-           <iframe class="center"width="560" height="315" src="https://www.youtube.com/embed/MoBfnfEQq2Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+           <iframe class="center" width="560" height="315" src="https://www.youtube.com/embed/MoBfnfEQq2Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      
     
     
