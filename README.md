@@ -188,11 +188,11 @@
             </tbody>
         </table>
         
-        <h2> Mr Dornan's Instructional Videos</h2>
-        <h3>CSS</h3>
+        <h2 class="para"> Mr Dornan's Instructional Videos</h2>
+        <h2 class="para">CSS</h2>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/dj44GYWEMH0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br>
-        <h3>Getting your Webpage onto the internet</h3>
+        <h2 class="para">Getting your Webpage onto the internet</h2>
         <br>
            <iframe width="560" height="315" src="https://www.youtube.com/embed/MoBfnfEQq2Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      
