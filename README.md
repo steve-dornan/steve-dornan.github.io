@@ -65,7 +65,13 @@
               width: 50%;
             }
             
-         
+         img {
+  opacity: 0.5;
+}
+
+img:hover {
+  opacity: 1.0;
+}
          
             
         </style>
