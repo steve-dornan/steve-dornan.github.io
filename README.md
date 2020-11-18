@@ -65,7 +65,15 @@
               width: 50%;
             }
             
-          
+        .your-centered-div {
+    width: 560px; /* you have to have a size or this method doesn't work */
+    height: 315px; /* think about making these max-width instead - might give you some more responsiveness */
+
+    position: absolute; /* positions out of the flow, but according to the nearest parent */
+    top: 0; right: 0; /* confuse it i guess */
+    bottom: 0; left: 0;
+    margin: auto; /* make em equal */
+}  
            
          
             
@@ -193,7 +201,7 @@
         <h2 class="para"> Mr Dornan's Instructional Videos</h2>
         <br>
         <h2 class="para">Inhtroduction to Learning HTML</h2>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/Oe6-Eolr6aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="your-centered-div" width="560" height="315" src="https://www.youtube.com/embed/Oe6-Eolr6aw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br>
         <h2 class="para">Introduction to CSS</h2>
         <iframe  width="560" height="315" src="https://www.youtube.com/embed/dj44GYWEMH0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
