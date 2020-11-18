@@ -156,9 +156,9 @@ img:hover {
      <p class="picture"
     id="Topic3"><strong class="bold">JavaScript</strong> JavaScript enables interactive web pages and is an essential part of web applications. The vast majority of websites use it for client-side page behaviour such as the <strong class="bold"><em>animation and interactivity  </em></strong>of webpages.</p>
     
-            <h2 class="para">Our Digital Technologies Webpage Course</h2>
+            <h1 class="para">Our Digital Technologies Webpage Course</h1>
 
-    <table class="center" >
+    <table class="center">
             <thead >
             <th>Term 2 & 4 2020 </th>
           
@@ -194,6 +194,7 @@ img:hover {
                 
             </tbody>
         </table>
+        
         <br>
         
         <h1 class="para"> Mr Dornan's Instructional Videos</h1>
