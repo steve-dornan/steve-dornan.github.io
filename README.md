@@ -66,11 +66,11 @@
             }
             
          img {
-  opacity: 0.5;
+  opacity: 1.0;
 }
 
 img:hover {
-  opacity: 1.0;
+  opacity: 0.5;
 }
          
             
