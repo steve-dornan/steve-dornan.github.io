@@ -100,8 +100,7 @@
     <h2 class="para2">We are using <strong>Khan Academy</strong> as our online program for learning and the creation of webpages.</h2>
     
     <br>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/MoBfnfEQq2Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-     
+ 
     <h3 id="learning-intent">We are learning about the following;</h3>
     
     <br>
@@ -188,12 +187,22 @@
                 
             </tbody>
         </table>
+        
+        <h2> Mr Dornan's Instructional Videos</h2>
+        <h3>CSS</h3>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dj44GYWEMH0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br>
+        <h3>Getting your Webpage onto the internet</h3>
+        <br>
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/MoBfnfEQq2Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     
     
     
 
     <!-- Internal link -->
     
     <h3 class="para"> <a href="#return" >Back to top</a>></h3>
+    
 
 
     </body>
