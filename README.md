@@ -85,7 +85,7 @@ img:hover {
     
     <br>
     
-   <img src="https://sdk.bitmoji.com/render/panel/150136d0-bf26-4d28-bdd1-a7a5552b771e-b52a5d68-7feb-4728-9572-8eafc3e56572-v1.png?transparent=1&palette=1" class="center">
+   <img src="https://sdk.bitmoji.com/render/panel/150136d0-bf26-4d28-bdd1-a7a5552b771e-7336d510-c7ca-4d69-a2ce-98251af0d196-v1.png?transparent=1&palette=1" class="center">
    
    <br>
    
