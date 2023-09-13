@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cafe Breakfast Menu</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Cafe Breakfast Menu</h1>
+<div class="menu">
+<ul>
+<li><a href="#">Pancakes</a></li>
+<li><a href="#">Waffles</a></li>
+<li><a href="#">French Toast</a></li>
+<li><a href="#">Omelet</a></li>
+<li><a href="#">Hash Browns</a></li>
+<li><a href="#">Breakfast Burrito</a></li>
+</ul>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
